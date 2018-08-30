@@ -1,0 +1,18 @@
+{
+  "name": "cryptomoji-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node build/index.js"
+  },
+  "dependencies": {
+    "cbor": "^4.1.1",
+    "sawtooth-sdk": "^1.0.5",
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.10.21",
+    "typescript": "^2.6.1"
+  }
+}
