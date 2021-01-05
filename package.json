@@ -9,7 +9,7 @@
   "dependencies": {
     "cbor": "^4.1.1",
     "sawtooth-sdk": "^1.0.5",
-    "axios": "^0.18.0"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "@types/node": "^8.10.21",
